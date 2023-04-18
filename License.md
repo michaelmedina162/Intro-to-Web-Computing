@@ -1,7 +1,7 @@
 # Intro-to-Web-Computing
 Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND) 4.0 International
 
-This is a human-readable summary of (and not a substitute for) the license. Disclaimer.
+This is a summary of (and not a substitute for) the license. Disclaimer.
 
 You are free to:
 
